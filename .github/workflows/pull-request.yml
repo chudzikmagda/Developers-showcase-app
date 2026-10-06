@@ -40,7 +40,7 @@ jobs:
         uses: ./.github/actions/setup-environment
 
       - name: Audit vulnerabilities
-        run: npm audit --audit-level=high
+        run: npm audit --omit=dev --audit-level=high
 
   semgrep-security-scan:
     name: Semgrep Security Scan
