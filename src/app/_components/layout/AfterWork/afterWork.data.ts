@@ -6,7 +6,7 @@ export const afterWorkData: FeatureCardProps[] = [
     category: "Development",
     title: "Continuous growth",
     description:
-      "Tech moves fast, and I make sure to stay ahead of the curve. I consistently refine my stack, explore emerging technologies - like AI-assisted development - and tackle new challenges daily to build better, faster, and smarter software.",
+      "Tech moves fast, and I make sure to stay ahead of the curve. I consistently refine my stack, explore emerging technologies - like AI-assisted development - and tackle new challenges daily to build smarter software.",
   },
   {
     iconURL: "/images/after-work/photos.svg",

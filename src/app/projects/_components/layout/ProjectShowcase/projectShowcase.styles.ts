@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { Breakpoints } from "../../../../../shared/types/breakpoints.types";
+import { Breakpoints } from "@/shared/types/breakpoints.types";
 
 export const PageWrapper = styled.main`
   display: flex;
@@ -79,7 +79,7 @@ export const InfoSection = styled.div`
   flex-direction: column;
   gap: 2rem;
   max-width: 75ch;
-  margin: 3rem 0 0;
+  margin: 0 0 3rem;
   color: var(--primary-text-color);
 `;
 

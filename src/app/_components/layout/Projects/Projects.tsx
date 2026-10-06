@@ -15,7 +15,7 @@ const Projects = (): JSX.Element => {
   return (
     <SectionWrapper id="projects">
       <TextWrapper>
-        <H2Heading>Projects</H2Heading>
+        <H2Heading>Featured projects</H2Heading>
       </TextWrapper>
       <SectionsWrapper>
         {projectsData
