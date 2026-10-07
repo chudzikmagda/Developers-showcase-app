@@ -26,7 +26,7 @@ A high-performance web application built with **Next.js 16**, **React 19**, and 
 
 ## Live demo
 
-[dev.magdachudzik.pl](https://www.dev.magdachudzik.pl)
+[dev.magdachudzik.pl](https://dev.magdachudzik.pl)
 
 ## 📦 Getting Started
 

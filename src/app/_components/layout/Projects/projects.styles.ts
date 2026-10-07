@@ -17,9 +17,9 @@ export const TextWrapper = styled.div`
   margin: 0 auto 2rem;
 `;
 
-export const H2Heading = styled.h2`
+export const H3Heading = styled.h3`
   margin-bottom: 1rem;
-  font-size: clamp(1.25rem, 1.5rem + 2vw, calc(3rem + 2vmin));
+  font-size: clamp(1rem, 1rem + 2vw, calc(1.25rem + 2vmin));
   line-height: 1.3;
   color: var(--primary-text-color);
 `;

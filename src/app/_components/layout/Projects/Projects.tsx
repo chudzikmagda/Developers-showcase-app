@@ -5,17 +5,17 @@ import { projectsData } from "@/shared/data/projects.data";
 import { Project } from "@/shared/types/projects.types";
 
 import {
-  H2Heading,
+  H3Heading,
+  SectionsWrapper,
   SectionWrapper,
   TextWrapper,
-  SectionsWrapper,
 } from "./projects.styles";
 
 const Projects = (): JSX.Element => {
   return (
     <SectionWrapper id="projects">
       <TextWrapper>
-        <H2Heading>Featured projects</H2Heading>
+        <H3Heading>Featured projects</H3Heading>
       </TextWrapper>
       <SectionsWrapper>
         {projectsData
