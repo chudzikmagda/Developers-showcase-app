@@ -20,5 +20,6 @@ export interface Project {
   implementationDate: string;
   technologies: Technology[];
   detailsUrl: string;
+  liveDemoURL?: string;
   showcaseMobileImages?: Image[];
 }

@@ -44,7 +44,7 @@ export const projectsData: Project[] = [
         alt: "Software engineer portfolio mockup 3",
       },
     ],
-    projectRange: "UI/UX design, frontend development.",
+    projectRange: "Frontend development, UI/UX design",
     implementationDate: "2026",
     technologies: [
       Technology.NEXT_JS,
@@ -54,6 +54,7 @@ export const projectsData: Project[] = [
       Technology.SASS,
     ],
     detailsUrl: "/projects/dev-portfolio",
+    liveDemoURL: "https://dev.magdachudzik.pl",
   },
   {
     id: ProjectId.PHOTOGRAPHERS_PORTFOLIO,
@@ -101,6 +102,7 @@ export const projectsData: Project[] = [
     implementationDate: "2023",
     technologies: [Technology.REACT, Technology.TYPESCRIPT, Technology.SASS],
     detailsUrl: "/projects/photographers-portfolio",
+    liveDemoURL: "https://magdachudzik.pl",
   },
   {
     id: ProjectId.BOOKWORM,
@@ -130,7 +132,7 @@ export const projectsData: Project[] = [
         alt: "Bookworm app mockup 4",
       },
     ],
-    projectRange: "UI/UX design, frontend development.",
+    projectRange: "Frontend development, UI/UX design",
     implementationDate: "2022",
     technologies: [Technology.ANGULAR, Technology.TYPESCRIPT, Technology.SASS],
     detailsUrl: "/projects/bookworm",
@@ -151,7 +153,7 @@ export const projectsData: Project[] = [
         alt: "Weather app mockup 1",
       },
     ],
-    projectRange: "UI/UX design, frontend development.",
+    projectRange: "Frontend development, UI/UX design",
     implementationDate: "2022",
     technologies: [Technology.ANGULAR, Technology.TYPESCRIPT, Technology.SASS],
     detailsUrl: "/projects/weather-app",
